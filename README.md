@@ -1,2 +1,2 @@
 # Securitytube-Gnu-Debugger-Expert
-```GDB``` tutorial
+GDB tutorial
